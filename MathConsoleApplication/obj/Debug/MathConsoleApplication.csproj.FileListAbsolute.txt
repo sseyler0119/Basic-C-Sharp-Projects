@@ -1,0 +1,7 @@
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathConsoleApplication\bin\Debug\MathConsoleApplication.exe.config
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathConsoleApplication\bin\Debug\MathConsoleApplication.exe
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathConsoleApplication\bin\Debug\MathConsoleApplication.pdb
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathConsoleApplication\obj\Debug\MathConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathConsoleApplication\obj\Debug\MathConsoleApplication.exe
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathConsoleApplication\obj\Debug\MathConsoleApplication.pdb
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathConsoleApplication\obj\Debug\MathConsoleApplication.csproj.AssemblyReference.cache
