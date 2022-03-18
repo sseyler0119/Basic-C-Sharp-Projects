@@ -74,6 +74,7 @@ namespace BooleanLogic
             {
                 Console.WriteLine("Applicant is NOT qualified for car insurance at this time.");
             }
+
             Console.ReadLine(); // keep console from closing
         }
     }
