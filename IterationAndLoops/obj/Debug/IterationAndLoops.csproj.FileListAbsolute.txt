@@ -1,0 +1,7 @@
+C:\Users\sseyl\source\repos\IterationAndLoops\bin\Debug\IterationAndLoops.exe.config
+C:\Users\sseyl\source\repos\IterationAndLoops\bin\Debug\IterationAndLoops.exe
+C:\Users\sseyl\source\repos\IterationAndLoops\bin\Debug\IterationAndLoops.pdb
+C:\Users\sseyl\source\repos\IterationAndLoops\obj\Debug\IterationAndLoops.csproj.AssemblyReference.cache
+C:\Users\sseyl\source\repos\IterationAndLoops\obj\Debug\IterationAndLoops.csproj.CoreCompileInputs.cache
+C:\Users\sseyl\source\repos\IterationAndLoops\obj\Debug\IterationAndLoops.exe
+C:\Users\sseyl\source\repos\IterationAndLoops\obj\Debug\IterationAndLoops.pdb
