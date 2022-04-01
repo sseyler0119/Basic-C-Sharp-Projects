@@ -1,0 +1,7 @@
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsAndIntegers\bin\Debug\StringsAndIntegers.exe.config
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsAndIntegers\bin\Debug\StringsAndIntegers.exe
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsAndIntegers\bin\Debug\StringsAndIntegers.pdb
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsAndIntegers\obj\Debug\StringsAndIntegers.csproj.AssemblyReference.cache
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsAndIntegers\obj\Debug\StringsAndIntegers.csproj.CoreCompileInputs.cache
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsAndIntegers\obj\Debug\StringsAndIntegers.exe
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsAndIntegers\obj\Debug\StringsAndIntegers.pdb
