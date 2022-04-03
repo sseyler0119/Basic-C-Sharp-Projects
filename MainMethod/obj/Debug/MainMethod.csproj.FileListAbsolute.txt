@@ -1,0 +1,7 @@
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethod\bin\Debug\MainMethod.exe.config
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethod\bin\Debug\MainMethod.exe
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethod\bin\Debug\MainMethod.pdb
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethod\obj\Debug\MainMethod.csproj.AssemblyReference.cache
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethod\obj\Debug\MainMethod.csproj.CoreCompileInputs.cache
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethod\obj\Debug\MainMethod.exe
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethod\obj\Debug\MainMethod.pdb
