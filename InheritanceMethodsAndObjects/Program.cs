@@ -22,29 +22,47 @@ namespace InheritanceMethodsAndObjects
             employee2.LastName = "Thomas";
             employee2.Id = 101;
 
-            Console.WriteLine("Testing '==' operator: \nCompare employee and employee2");
+
+            Employee employee3 = new Employee();
+            employee3.FirstName = "Sandra";
+            employee3.LastName = "Thomas";
+            employee3.Id = 101;
+
+            Console.WriteLine("Testing '==' operator:\n\nTest1: \nCompare employee and employee2");
             if (employee == employee2) // this should be false
             {
-                Console.WriteLine("This is the same employee");
+                Console.WriteLine("This is the same employee Id");
                 Console.WriteLine(employee.Id + " == " + employee2.Id);
             }
             else // this should be true
             {
-                Console.WriteLine("These are two different people");
+                Console.WriteLine("These are two different employee Ids");
                 Console.WriteLine(employee.Id + " != " + employee2.Id);
             }
-                
-                //prompt user to enter first and last name
-                //Console.WriteLine("Enter first name: ");
-                //employee.FirstName = Console.ReadLine(); // read in input, store as FirstName
-                //Console.WriteLine("Enter last name: ");
-                //employee.LastName = Console.ReadLine(); // read in input, store as LastName
 
-                //employee.SayName(); // call SayName function on Employee object
+            Console.WriteLine("\nTest 2: \nCompare employee2 and employee3");
+            if (employee2 == employee3) // this should be true
+            {
+                Console.WriteLine("This is the same employee Id");
+                Console.WriteLine(employee2.Id + " == " + employee3.Id);
+            }
+            else // this should be false
+            {
+                Console.WriteLine("These are two different employee Ids");
+                Console.WriteLine(employee2.Id + " != " + employee3.Id);
+            }
 
-                //employee.Quit(employee); // call Quit function from IQuittable interface on Employee object
+            //prompt user to enter first and last name
+            //Console.WriteLine("Enter first name: ");
+            //employee.FirstName = Console.ReadLine(); // read in input, store as FirstName
+            //Console.WriteLine("Enter last name: ");
+            //employee.LastName = Console.ReadLine(); // read in input, store as LastName
 
-                Console.ReadLine(); // keep console open
+            //employee.SayName(); // call SayName function on Employee object
+
+            //employee.Quit(employee); // call Quit function from IQuittable interface on Employee object
+
+            Console.ReadLine(); // keep console open
         }
     }
 }
