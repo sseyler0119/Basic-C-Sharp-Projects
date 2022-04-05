@@ -23,7 +23,7 @@ namespace InheritanceMethodsAndObjects
             employee2.Id = 101;
 
             Console.WriteLine("Testing '==' operator: \nCompare employee and employee2");
-            if (employee.Id == employee2.Id) // this should be false
+            if (employee == employee2) // this should be false
             {
                 Console.WriteLine("This is the same employee");
                 Console.WriteLine(employee.Id + " == " + employee2.Id);
@@ -33,7 +33,7 @@ namespace InheritanceMethodsAndObjects
                 Console.WriteLine("These are two different people");
                 Console.WriteLine(employee.Id + " != " + employee2.Id);
             }
-            if (employee.Id == employee.Id) // same employee id, shoudl be true
+            if (employee == employee) // same employee id, should be true
             {
                 Console.WriteLine(employee.Id + " = " + employee.Id);
             }
