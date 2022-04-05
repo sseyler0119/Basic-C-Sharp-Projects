@@ -21,5 +21,16 @@ namespace InheritanceMethodsAndObjects
             // employee quits! 
             Console.WriteLine(FirstName + " " + LastName + " has left the building!");
         }
+
+        // overload '==' operator
+        public static bool operator ==(Employee e1, Employee e2)
+        {
+            return e1.Id == e2.Id;
+        }
+        // overload '!=' operator
+        public static bool operator !=(Employee e1, Employee e2)
+        {
+            return e1.Id != e2.Id;
+        }
     }
 }
