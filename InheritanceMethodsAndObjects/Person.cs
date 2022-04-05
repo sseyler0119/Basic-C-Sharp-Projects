@@ -6,14 +6,11 @@ using System.Threading.Tasks;
 
 namespace InheritanceMethodsAndObjects
 {
-    public class Person
+    public abstract class Person // abstract base class
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
-        public void SayName()
-        {
-            Console.WriteLine("Name: " + FirstName + " " + LastName);
-        }
+        public abstract void SayName(); // abstract method
     }
 }

@@ -6,8 +6,13 @@ using System.Threading.Tasks;
 
 namespace InheritanceMethodsAndObjects
 {
-    public class Employee : Person
+    public class Employee : Person // Employee class inherits from abstract Person class
     {
         public int Id;
+
+        public override void SayName() // override abstract method from Person class
+        {
+            Console.WriteLine("Name: " + FirstName + " " + LastName);
+        }
     }
 }
