@@ -33,15 +33,6 @@ namespace InheritanceMethodsAndObjects
                 Console.WriteLine("These are two different people");
                 Console.WriteLine(employee.Id + " != " + employee2.Id);
             }
-            if (employee == employee) // same employee id, should be true
-            {
-                Console.WriteLine(employee.Id + " = " + employee.Id);
-            }
-            else // should be false
-            {
-                Console.WriteLine("These are two different people");
-                Console.WriteLine(employee.Id + " != " + employee.Id); // impossible
-            }
                 
                 //prompt user to enter first and last name
                 //Console.WriteLine("Enter first name: ");
