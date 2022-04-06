@@ -9,6 +9,7 @@ namespace InheritanceMethodsAndObjects
     public class Employee : Person, IQuittable // Employee class inherits from abstract Person class and IQuittable interface
     {
         public int Id;
+        //public List<T> things; // goes with Employee<T> generic class type
 
         public override void SayName() // override abstract method from Person class
         {
