@@ -1,0 +1,7 @@
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeDrill\bin\Debug\DateTimeDrill.exe.config
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeDrill\bin\Debug\DateTimeDrill.exe
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeDrill\bin\Debug\DateTimeDrill.pdb
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeDrill\obj\Debug\DateTimeDrill.csproj.AssemblyReference.cache
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeDrill\obj\Debug\DateTimeDrill.csproj.CoreCompileInputs.cache
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeDrill\obj\Debug\DateTimeDrill.exe
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeDrill\obj\Debug\DateTimeDrill.pdb
