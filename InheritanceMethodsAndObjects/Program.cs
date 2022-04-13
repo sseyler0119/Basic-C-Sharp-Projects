@@ -10,38 +10,33 @@ namespace InheritanceMethodsAndObjects
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee(); // instantiate and initialize Employee object
+            /* Task 1: Create const variable */
+            const string company = "HCS Financial Services"; // constant string variable
+            Console.WriteLine("Welcome to {0}, please enter employee information: ", company);
 
-            /* Employee<string> thing1 = new Employee<string>();
-            thing1.things = new List<string> { "cup", "bowl", "pencil", "plant", "bird"};
+            /* Enter employee information for employee 1 */
+            Console.WriteLine("Enter First Name: "); // get first name from user
+            string firstName = Console.ReadLine();
+            Console.WriteLine("Enter Last Name: "); // get last name from user
+            string lastName = Console.ReadLine();
+
+            /* Task 3: Part 1 Chain two constructors together */ 
+            Employee employee = new Employee(firstName, lastName); // create employee object, instantiate using constructor 1 
             
-            Employee<int> thing2 = new Employee<int>();
-            thing2.things = new List<int> { 1, 0, 10, 11, 100, 110, 101, 111 };
+            // output employee object to console using "default Department assignment" from constructor 1
+            Console.WriteLine(employee.FirstName + " " + employee.LastName + "\nDepartment: " + employee.Department);
 
-            // output string list
-            Console.WriteLine("\nList of String things: \n");
-            foreach (string item in thing1.things)
-            {
-                Console.WriteLine(item);
-            }
+            /* assign variables for second employee */
+            firstName = "Sally";
+            lastName = "Thompson";
+            string department = "Accounting";
 
-            // output int list
-            Console.WriteLine("\nList of Integer things: \n");
-            foreach(int item in thing2.things)
-            {
-                Console.WriteLine(item);
-            }
-            */
-            
-            //prompt user to enter first and last name
-            Console.WriteLine("Enter first name: ");
-            employee.FirstName = Console.ReadLine(); // read in input, store as FirstName
-            Console.WriteLine("Enter last name: ");
-            employee.LastName = Console.ReadLine(); // read in input, store as LastName
+            /* Task 2: Create a variable using the keyword "var" 
+               * Task 3: Part 2, Chain two constructors together */
+            var employee1 = new Employee(firstName, lastName, department); // create employee object using var, instantiate with constructor 2
 
-            employee.SayName(); // call SayName function on Employee object
-
-            employee.Quit(employee); // call Quit function from IQuittable interface on Employee object
+            // output employee1 object to console using user-defined variables from constructor 2
+            Console.WriteLine(employee1.FirstName + " " + employee1.LastName + "\nDepartment: " + employee1.Department);
 
             Console.ReadLine(); // keep console open
         }
