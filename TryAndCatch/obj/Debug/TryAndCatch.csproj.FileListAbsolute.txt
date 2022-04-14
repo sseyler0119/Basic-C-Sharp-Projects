@@ -1,0 +1,7 @@
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryAndCatch\obj\Debug\TryAndCatch.csproj.AssemblyReference.cache
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryAndCatch\obj\Debug\TryAndCatch.csproj.CoreCompileInputs.cache
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryAndCatch\bin\Debug\TryAndCatch.exe.config
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryAndCatch\bin\Debug\TryAndCatch.exe
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryAndCatch\bin\Debug\TryAndCatch.pdb
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryAndCatch\obj\Debug\TryAndCatch.exe
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TryAndCatch\obj\Debug\TryAndCatch.pdb
