@@ -1,0 +1,39 @@
+﻿@using CarInsurance.ViewModels
+@model List<QuoteVM>
+
+<h2>Admin View</h2>
+<div class="row no-gutters m-3">
+    <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+        <div class="card-header text-center">
+            <h2>Quotes</h2>
+        </div>
+        <div class="card-body">
+            <table class="table">
+                <tr>
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                    <th>Email Address</th>
+                    <th>Quote</th>
+                </tr>
+                <!-- output each quote in a new row-->
+                @foreach (var quote in Model)
+                {
+                    <tr>
+                        <td>
+                            @quote.FirstName
+                        </td>
+                        <td>
+                            @quote.LastName
+                        </td>
+                        <td>
+                            @quote.EmailAddress
+                        </td>
+                        <td>
+                            $@quote.Quote.ToString("F") <!-- display output to 2 decimal places-->
+                        </td>
+                    </tr>
+                }
+            </table>
+         </div>  
+    </div>
+</div>
