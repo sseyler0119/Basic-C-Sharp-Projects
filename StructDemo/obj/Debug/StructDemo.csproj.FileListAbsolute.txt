@@ -1,0 +1,7 @@
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructDemo\bin\Debug\StructDemo.exe.config
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructDemo\bin\Debug\StructDemo.exe
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructDemo\bin\Debug\StructDemo.pdb
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructDemo\obj\Debug\StructDemo.csproj.AssemblyReference.cache
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructDemo\obj\Debug\StructDemo.csproj.CoreCompileInputs.cache
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructDemo\obj\Debug\StructDemo.exe
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructDemo\obj\Debug\StructDemo.pdb

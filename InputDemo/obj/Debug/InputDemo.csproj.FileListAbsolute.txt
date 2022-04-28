@@ -1,0 +1,7 @@
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\InputDemo\bin\Debug\InputDemo.exe.config
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\InputDemo\bin\Debug\InputDemo.exe
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\InputDemo\bin\Debug\InputDemo.pdb
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\InputDemo\obj\Debug\InputDemo.csproj.AssemblyReference.cache
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\InputDemo\obj\Debug\InputDemo.csproj.CoreCompileInputs.cache
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\InputDemo\obj\Debug\InputDemo.exe
+C:\Users\sseyl\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\InputDemo\obj\Debug\InputDemo.pdb
